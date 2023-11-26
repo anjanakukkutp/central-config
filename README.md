@@ -1,0 +1,2 @@
+# central-config
+configuration centralized
